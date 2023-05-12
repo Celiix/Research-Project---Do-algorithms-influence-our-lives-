@@ -1,6 +1,7 @@
 # Research-Project Assignment/ Does algorithms influence our lives?
 
-All images, audio and powerpoint is inside the folders.
+!All images, audio and powerpoint is inside the folders if web links are not working!
+-------------------------------------------------------------------------------------------------------------
 
 Here are screen shots of the website
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
